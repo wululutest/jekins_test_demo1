@@ -1,0 +1,58 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1586776134470" stop="1586776213006">
+  <name>test_search</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1586776134470" status="passed" stop="1586776153008">
+      <description>搜索测试方法</description>
+      <name>TestSearch.test_func[text0]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="37736-MainThread"/>
+        <label name="host" value="DESKTOP-IB3EO59"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1586776155018" status="passed" stop="1586776172640">
+      <description>搜索测试方法</description>
+      <name>TestSearch.test_func[text1]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="37736-MainThread"/>
+        <label name="host" value="DESKTOP-IB3EO59"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1586776174614" status="passed" stop="1586776192864">
+      <description>搜索测试方法</description>
+      <name>TestSearch.test_func[text2]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="37736-MainThread"/>
+        <label name="host" value="DESKTOP-IB3EO59"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1586776194997" status="passed" stop="1586776213006">
+      <description>搜索测试方法</description>
+      <name>TestSearch.test_func[text3]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="37736-MainThread"/>
+        <label name="host" value="DESKTOP-IB3EO59"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>
