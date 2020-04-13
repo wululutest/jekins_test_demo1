@@ -320,7 +320,14 @@
       <option name="project" value="LOCAL" />
       <updated>1586781430778</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="‘jekins_test_demo1’练习">
+      <created>1586781572496</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1586781572496</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -381,7 +388,8 @@
     <MESSAGE value="修改‘pytest.ini’文件" />
     <MESSAGE value="初始化提交" />
     <MESSAGE value="jekins_test_demo1练习" />
-    <option name="LAST_COMMIT_MESSAGE" value="jekins_test_demo1练习" />
+    <MESSAGE value="‘jekins_test_demo1’练习" />
+    <option name="LAST_COMMIT_MESSAGE" value="‘jekins_test_demo1’练习" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/../../day05/app_auto_test_day05/hm02_basic_fun.py">
